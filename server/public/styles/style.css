@@ -1,0 +1,96 @@
+body {
+  margin: 0;
+  font-family: 'Arimo', sans-serif;
+}
+
+.header {
+  height: 60px;
+  width: 100%;
+  background-color: #BFD962;
+  color: #212226;
+  text-align: center;
+  border-bottom: 2px solid #26020C;
+}
+
+.header p {
+  margin-top: 0;
+  font-size: 50px;
+}
+
+.container {
+  max-width: 800px;
+  margin-top: 0;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #D0D7D9;
+  padding-top: 20px;
+  border-left: 2px solid #26020C;
+  border-right: 2px solid #26020C;
+  border-bottom: 2px solid #26020C;
+}
+
+.form {
+  margin-left: 10px;
+}
+
+.salaryDisplay p{
+  padding-left: 10px;
+  font-size: 20px;
+}
+
+.submit {
+  padding-top: 20px;
+}
+
+.button {
+  border-radius: 5px;
+  font-family: 'Arimo', sans-serif;
+  background-color: #212226;
+  color: #BFD962;
+  border: none;
+}
+
+.submitButton {
+  height: 25px;
+  width: 100px;
+  font-size: 14px;
+
+}
+
+.button:hover {
+  background-color: #3E3F40;
+}
+
+.table {
+  width: 800px;
+}
+
+.tableHeader {
+  background-color: #212226;
+  color: #BFD962;
+}
+
+.headerRow {
+  height: 30px;
+}
+
+.dataRow {
+    background-color: #F2F2F2;
+    color: #26020C;
+    height: 15px;
+    font-size: 16px;
+    height: 25px;
+}
+
+td {
+  text-align: center;
+}
+
+.inputText {
+  margin: 5px;
+}
+
+input {
+  width: 200px;
+  height: 25px;
+}
